@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AppResponsive_Kelompok1</string>
+    <string name="user_profile_email"><u>tasyarasya@gmail.com</u></string>
+    <string name="bookmark"><u>UI/UX Design</u></string>
+    <string name="name_course"><u>Pengembangan Machine Learning</u></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="txt_enter_your_email">Enter your email</string>
+    <string name="txt_enter_your_name">Enter your name</string>
+    <string name="txt_enter_your_mobile_number">Enter your mobile number</string>
+    <string name="txt_register">Register</string>
+    <string name="txt_please_register_to_login">Please register to login</string>
+    <string name="txt_already_have_account">Already have account?</string>
+    <string name="txt_sign_in_here">Sign in here</string>
+    <string name="txt_enter_your_password">Enter your password</string>
+    <string name="txt_todo">TODO</string>
+</resources>

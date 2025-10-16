@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AppResponsive_Kelompok1" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">#0F273F</item>
+    </style>
+
+    <style name="Theme.AppResponsive_Kelompok1" parent="Base.Theme.AppResponsive_Kelompok1" />
+
+    <style name="App.Custom.Indicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">#FFFBFB</item>
+    </style>
+</resources>
